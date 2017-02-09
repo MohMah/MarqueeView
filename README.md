@@ -1,2 +1,2 @@
 # MarqueeView
-And android MarqueeView with RTL support.
+An android MarqueeView with RTL support.
